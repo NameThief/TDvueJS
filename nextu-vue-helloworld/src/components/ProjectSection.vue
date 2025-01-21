@@ -53,8 +53,8 @@ const projects: Project[] = [
 <style scoped>
 .project-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr); /* Trois colonnes égales */
-  gap: 1rem; /* Espace entre les cartes */
+  grid-template-columns: repeat(3, 1fr); 
+  gap: 1rem; 
 }
 
 .project {
